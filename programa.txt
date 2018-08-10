@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+	<locucao>
+		<id_programa>1</id_programa>
+		<id_usuario>0</id_usuario>
+		<setado_por>Spark</setado_por>
+		<perfil_locutor>http://radiojhero.com/j-hero-non-stop-music</perfil_locutor>
+		<avatar>http://radiojhero.com/imagens/programas/j-hero-non-stop-music.gif</avatar>
+		<perfil_programa>http://radiojhero.com/j-hero-non-stop-music</perfil_programa>
+		<nome_programa>J-Hero ~ NoN-StoP Music</nome_programa>	
+		<locutor>DJ Playlister</locutor>	
+		<estilo>Especial</estilo>	
+		<descricao>Tocando as melhores da programação J-Hero. J-Music em Geral, tanto como Animesong, J-Rock, J-Pop, Games, K-Music.</descricao>
+		<facebook>http://www.facebook.com/radiojhero</facebook>
+		<twitter>http://twitter.com/radiojhero</twitter>
+		<pedido>http://radiojhero.com/pgs/pedido</pedido>
+		<webcam>nao</webcam>
+		<url_webcam>nulo</url_webcam>
+	</locucao>
