@@ -15,4 +15,4 @@ async def on_ready():
 async def ping(ctx):
     await client.say("Pong")
 
-client.run("MjM4NzQxMTMzNzc2MTI1OTUz.DJjuBg.mCVcxt6jGHdqRnfqmcvj_IJhtIo")
+client.run("")
